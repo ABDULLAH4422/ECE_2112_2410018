@@ -48,8 +48,9 @@ _**Heaven’s Light is Our Guide**_
 
 | Assignment No. | Title | Link | 
 | :---: | :---: | :---: | 
-| 01 | Lab 01 | [Lab 01](https://github.com/ABDULLAH4422/ECE_2112_2410018/blob/f3fa069c8540d7b286edd8afbdb4f6dd1c7f24fd/LabTasks/!st_%20Lab.pdf)
-|
+| 01 | Lab 01 | [Lab 01](https://github.com/ABDULLAH4422/ECE_2112_2410018/blob/a14e5038cdd5cb51c96fda82950ad1342c54980c/LabTasks/1st_%20Lab.pdf)
+| 02 | Lab 02 | [Lab 02](https://github.com/ABDULLAH4422/ECE_2112_2410018/blob/a14e5038cdd5cb51c96fda82950ad1342c54980c/LabTasks/2nd_lab.pdf)
+
 
 
 </div> 
